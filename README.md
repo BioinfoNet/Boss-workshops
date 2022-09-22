@@ -14,7 +14,7 @@ _The workshop runs from November 1st - November 5th 2021. All times are in GMT +
 | Tuesday | [Advanced Linux, Awk and Sed]() - **_Sumir Panji_** | 9:00-01:00pm EAT | Assignments - Unix, Sed and Awk |
 | Wednesday | [Quality control and assessment]() - **_Shaun Aron_** <br />[Practical session - QC]() - **_Shaun Aron_** <br /> [Scientific writing]() - **Joy Owango** | 9:00-10:00am EAT <br /> 10:15-12:00pm EAT <br /> 12:15-01:00pm EAT | Assignments - QC |
 | Thursday | [Sequence alignment]() - **_Sonal Henson_** <br />[Sequence assembly]() - **_James Otieno_** | 9:00-11:15am EAT <br /> 11:30-1:00pm EAT  | Assignments - Sequence alignment and assembly |
-| Friday | [Introduction to Git/GitHub]() - **_Caleb Kibet_** <br /> [Introduction to Galaxy]() - **_Peter van Heusden_** | 9:00-10:00am EAT <br /> 10:15-11:15am EAT | Assignments - Introduction to Galaxy - Genomics |
+| Friday | [Introduction to Git/GitHub](https://docs.google.com/presentation/d/1NVHLHiL-tw-3e5KYFY-N_ISjWgGHIs45eAypEUep_hU/edit?pli=1#slide=id.g1088c5b110_0_149) - **_Caleb Kibet_** <br /> [Introduction to Galaxy](https://docs.google.com/presentation/d/1RgYIpu5lgbzYTtvBra8TOjAtGzDtH0kPyiBtjz5lm4c/edit?pli=1#slide=id.g1004f6fad48_2_53) - **_Peter van Heusden_** | 9:00-10:00am EAT <br /> 10:15-11:15am EAT | Assignments - Introduction to Galaxy - Genomics |
 
 ### Week 2
 
